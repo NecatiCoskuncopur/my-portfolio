@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 
 import styled from 'styled-components';
 
-import { Footer, Header, Intro, Portfolio } from '@/components';
+import { About, Footer, Header, Intro, Portfolio } from '@/components';
 import theme from '@/theme';
 
 const { colors, device } = theme;
@@ -23,6 +23,7 @@ const Home = () => {
       <Header isScrolled={isScrolled} />
       <Content $isScrolled={isScrolled}>
         <Intro />
+        <About />
         <Portfolio />
       </Content>
       <Footer />
