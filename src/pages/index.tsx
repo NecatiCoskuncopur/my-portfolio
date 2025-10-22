@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 
 import styled from 'styled-components';
 
-import { Footer, Header } from '@/components';
+import { Footer, Header, Intro } from '@/components';
 import theme from '@/theme';
 
 const { colors, device } = theme;
@@ -21,7 +21,9 @@ const Home = () => {
   return (
     <Wrapper>
       <Header isScrolled={isScrolled} />
-      <Content $isScrolled={isScrolled}></Content>
+      <Content $isScrolled={isScrolled}>
+        <Intro />
+      </Content>
       <Footer />
     </Wrapper>
   );

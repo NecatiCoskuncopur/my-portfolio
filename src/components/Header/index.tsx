@@ -5,6 +5,7 @@ import { useMediaQuery } from 'react-responsive';
 import styled from 'styled-components';
 
 import theme from '@/theme';
+import TextWrapper from './TextWrapper';
 import data from '../../data.json';
 
 const { colors, device } = theme;
@@ -43,6 +44,7 @@ const Header: React.FC<HeaderProps> = ({ isScrolled }) => {
           src={data.avatar}
           alt={`${data.name} - ${data.role}`}
         />
+        <TextWrapper />
       </InnerWrapper>
     </Wrapper>
   );
