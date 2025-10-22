@@ -1,0 +1,77 @@
+{
+  "name": "Necati Coşkunçopur",
+  "avatar": "https://previews.123rf.com/images/nyul/nyul1102/nyul110200262/8748110-portrait-of-happy-old-man-smiling-looking-at-camera.jpg",
+  "role": "Full Stack Developer",
+  "introDescription": "I build fast, scalable, and reliable web applications with a focus on clean design and seamless user experience.",
+  "aboutDescription": "I’m a Full Stack Developer who values structure, consistency, and clean code. I approach every project with discipline and attention to detail to deliver reliable and scalable web applications.",
+  "birthDay": "11 September 1993",
+  "address": "Ankara / Turkey",
+  "email": "necaticoskuncopur@gmail.com",
+  "github": "https://github.com/NecatiCoskuncopur",
+  "linkedin": "https://www.linkedin.com/in/necati-coskuncopur",
+  "skills": [
+    { "name": "HTML" },
+    { "name": "CSS" },
+    { "name": "Styled Components" },
+    { "name": "JavaScript" },
+    { "name": "TypeScript" },
+    { "name": "ReactJS" },
+    { "name": "NodeJS" },
+    { "name": "NestJS" },
+    { "name": "MsSql" },
+    { "name": "PostgreSQL" },
+    { "name": "MongoDB" },
+    { "name": "T-SQL" },
+    { "name": "Git" },
+    { "name": "Github" },
+    { "name": "Aws" }
+  ],
+  "education": [
+    {
+      "institute": "Ufuk University",
+      "programName": " Surgicial Technician",
+      "date": "06/2017",
+      "description": "I studied Operating Room Services at Ufuk University, where I gained valuable experience in teamwork, precision, and process management — skills that have positively influenced my approach to software development and project organization."
+    },
+    {
+      "institute": "Ulus Anatolian Technical High School ",
+      "programName": "Computer Science/ Web Development",
+      "date": "06/2012",
+      "description": "I graduated from Ulus Anatolian Technical High School, Computer Science/Web Development Branch in June 2012, where I gained foundational knowledge in database management and programming, including C#."
+    }
+  ],
+  "experience": [
+    {
+      "name": "90 Pixel",
+      "title": "Frontend Developer",
+      "date": "2022 - 2023",
+      "description": "At 90 Pixel, I developed a micro-learning web application designed to help companies deliver short, engaging educational content to their employees. The platform was built using React, Next.js, TypeScript, and styled-components, focusing on scalability, performance, and a clean, consistent user experience. I implemented reusable UI components, responsive layouts, and optimized rendering through Next.js features, resulting in a fast, maintainable, and visually cohesive learning solution for corporate training."
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Sweet Lemon",
+      "imgUrl": "https://frenify.com/work/envato/frenify/html/resumo/1/img/portfolio/3.jpg",
+      "github": "https://github.com/NecatiCoskuncopur",
+      "live": "https://github.com"
+    },
+    {
+      "name": "Creative Design",
+      "imgUrl": "https://frenify.com/work/envato/frenify/html/resumo/1/img/portfolio/4.jpg",
+      "github": "https://github.com/NecatiCoskuncopur",
+      "live": "https://github.com"
+    },
+    {
+      "name": "Portfolio Site",
+      "imgUrl": "https://frenify.com/work/envato/frenify/html/resumo/1/img/portfolio/5.jpg",
+      "github": "https://github.com/NecatiCoskuncopur",
+      "live": "https://github.com"
+    },
+    {
+      "name": "Landing Page",
+      "imgUrl": "https://frenify.com/work/envato/frenify/html/resumo/1/img/portfolio/2.jpg",
+      "github": "https://github.com/NecatiCoskuncopur",
+      "live": "https://github.com"
+    }
+  ]
+}
